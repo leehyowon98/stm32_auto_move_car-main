@@ -1,0 +1,10 @@
+../Core/Src/usart.c:33:6:MX_USART1_UART_Init	8	static
+../Core/Src/usart.c:62:6:MX_USART2_UART_Init	8	static
+../Core/Src/usart.c:91:6:MX_USART6_UART_Init	8	static
+../Core/Src/usart.c:119:6:HAL_UART_MspInit	64	static
+../Core/Src/usart.c:203:6:HAL_UART_MspDeInit	16	static
+../Core/Src/usart.c:277:6:HC06_SendData	16	static
+../Core/Src/usart.c:283:6:HC06_StartReceive	8	static
+../Core/Src/usart.c:298:9:HC06_DataAvailable	4	static
+../Core/Src/usart.c:304:10:HC06_GetReceivedData	24	static
+../Core/Src/usart.c:319:6:HAL_UART_RxCpltCallback	16	static

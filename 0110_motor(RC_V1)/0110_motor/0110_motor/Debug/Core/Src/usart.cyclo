@@ -1,0 +1,10 @@
+../Core/Src/usart.c:33:6:MX_USART1_UART_Init	2
+../Core/Src/usart.c:62:6:MX_USART2_UART_Init	2
+../Core/Src/usart.c:91:6:MX_USART6_UART_Init	2
+../Core/Src/usart.c:119:6:HAL_UART_MspInit	4
+../Core/Src/usart.c:203:6:HAL_UART_MspDeInit	4
+../Core/Src/usart.c:277:6:HC06_SendData	1
+../Core/Src/usart.c:283:6:HC06_StartReceive	1
+../Core/Src/usart.c:298:9:HC06_DataAvailable	1
+../Core/Src/usart.c:304:10:HC06_GetReceivedData	3
+../Core/Src/usart.c:319:6:HAL_UART_RxCpltCallback	9
